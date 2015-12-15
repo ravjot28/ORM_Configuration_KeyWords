@@ -1,0 +1,15 @@
+class-cache
+optimistic-lock
+cache
+collection-cache
+CacheMode
+@Cacheable
+FlushMode.
+FetchType.
+lazy=
+batch-size=
+outer-join=
+@Version
+@Cache
+@SqlResultSetMapping
+@BatchSize
