@@ -8,11 +8,11 @@ FlushMode.
 FetchType.
 lazy=
 batch-size=
+@NamedQueries
+@NamedQuery
+<sql-query
 outer-join=
 @Version
 @Cache
 @SqlResultSetMapping
 @BatchSize
-@NamedQueries
-@NamedQuery
-<sql-query
