@@ -13,3 +13,6 @@ outer-join=
 @Cache
 @SqlResultSetMapping
 @BatchSize
+@NamedQueries
+@NamedQuery
+<sql-query
